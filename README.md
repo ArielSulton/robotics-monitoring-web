@@ -1,4 +1,9 @@
-# ROS 2 Noetic Based
+# Web Based Robotics Monitoring System
+
+## Tech Stack
+- ROS 2 Noetic
+- Flask Python
+- HTML, CSS, JS
 
 ## 2 terminal session
 
