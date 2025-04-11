@@ -18,3 +18,6 @@ ros2 run publisher talker
 ```
 python3 app.py
 ```
+
+## Web Access
+- http://127.0.0.1:5000
